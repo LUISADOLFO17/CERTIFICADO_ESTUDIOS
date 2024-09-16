@@ -6,7 +6,10 @@ Estudie Ingenieria Industrial en la Universidad Cesar Vallejo desde el periodo 2
 
 ## CERTIFICADOS ESTUDIOS POST-GRADO 
 
-Durante mi periodo academico en el Instituto de Informatica lleve los cursos de: GESTIÓN Y ANÁLISIS DE DATOS CON MS EXCEL Y SPSS STATISTICS ,MODELAMIENTO Y DISEÑO DE BASE DE DATOS y GESTIÓN DE HERRAMIENTAS DIGITALES PARA EL EMPRENDIMIENTO
+Durante mi periodo academico en el Instituto de Informatica lleve los cursos de: 
+Gestión y análisis de datos en Ms Excel y Spss Satistics 
+Modelamiento y diseño de base de datos 
+Gestión de herramientas digitales para el emprendimiento 
 
 ![image](https://github.com/user-attachments/assets/87c7b10e-259f-41f5-90b6-609a35b97cc7)
 
@@ -17,3 +20,7 @@ En el 2022 cursé la Diplomatura de estudios en Lean Six Sigma en el Instituto p
 A principios del 2023 realice el WorkShop de Negociación y Persuasión llevado a cabo por Cambridge International Consulting 
 
 ![image](https://github.com/user-attachments/assets/e7c00a2e-2210-473d-a3e4-f652c4cac5b7)
+
+Durante el 2023 curse el Curso de Supply Chain  Management llevado acabo en Centrum Pucp 
+
+![image](https://github.com/user-attachments/assets/295298d0-7e9e-481b-94de-27db8cab3644)
