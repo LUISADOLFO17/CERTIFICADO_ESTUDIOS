@@ -13,3 +13,7 @@ Durante mi periodo academico en el Instituto de Informatica lleve los cursos de:
 En el 2022 cursé la Diplomatura de estudios en Lean Six Sigma en el Instituto para la Calidad de la Pontificia Universidad Catolica del Perú 
 
 ![image](https://github.com/user-attachments/assets/ef3daccb-3dd4-4994-bc60-30faca5a989c)
+
+A principios del 2023 realice el WorkShop de Negociación y Persuasión llevado a cabo por Cambridge International Consulting 
+
+![image](https://github.com/user-attachments/assets/e7c00a2e-2210-473d-a3e4-f652c4cac5b7)
